@@ -1,9 +1,9 @@
-Overview:
+_**Overview:**
 
 This is a app, which displays the Air Quality Index for various cities. Receiving data from WebSocket.
 Used Kotlin with MVVM acrhitecture for this application.
 
-Tools Used:
+**Tools Used:**
 1. Java WebSocketClient: for socket connection
 2. Hilt: for dependency injection
 3. Jetpack Navigation: for managing fragments
