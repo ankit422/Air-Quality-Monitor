@@ -1,4 +1,4 @@
-_**Overview:**
+**_Overview:_**
 
 This is a app, which displays the Air Quality Index for various cities. Receiving data from WebSocket.
 Used Kotlin with MVVM acrhitecture for this application.
